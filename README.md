@@ -6,10 +6,16 @@
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JeanSd1&show_icons=true&theme=dark&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSd1&layout=compact&theme=dark" />
-</div>
+<table>
+  <tr>
+    <td width="48%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JeanSd1&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td width="48%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSd1&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 👨‍💻 **Supervisor de TI | Dev Full-Stack | Automação & Infraestrutura**  
 🛠️ Especialista em suporte técnico, redes, servidores, automação, segurança e liderança de equipes  
 🚀 Projetos práticos em bots, sistemas de ponto, automação e IA
