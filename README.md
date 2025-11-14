@@ -1,5 +1,9 @@
 # Jean Carlo Serres Durgante
 
+### Contato & Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-durgante-691509342/)
+
 👨‍💻 **Supervisor de TI | Dev Full-Stack | Automação & Infraestrutura**  
 🛠️ Especialista em suporte técnico, redes, servidores, automação, segurança e liderança de equipes  
 🚀 Projetos práticos em bots, sistemas de ponto, automação e IA
