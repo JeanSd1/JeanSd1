@@ -96,7 +96,7 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
 
 ## Contato
 
-- **[LinkedIn](https://linkedin.com/in/jeandurgante)**
+
 - **Email:** jean.d.serres@gmail.com
 - **GitHub:** JeanSd1
 
