@@ -27,6 +27,44 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
 
 ## Competências Técnicas
 
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+**Linguagens de Programação**
+
+<img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img height="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+
+**Backend & Databases**
+
+<img height="50" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Frontend & UI**
+
+<img height="50" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img height="50" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**DevOps & Tools**
+
+<img height="50" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+**Plataformas de Deploy**
+
+<img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=0B0D0E" />
+
+</div>
+
 - **Suporte técnico presencial e remoto (AnyDesk)**
 - **Administração de redes LAN/WAN**
 - **Instalação e manutenção de CFTV, servidores e equipamentos**
