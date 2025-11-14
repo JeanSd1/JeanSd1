@@ -4,6 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-durgante-691509342/)
 
+### 📊 Estatísticas GitHub
+
+![JeanSd1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSd1&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSd1&layout=compact&theme=dark)
+
 👨‍💻 **Supervisor de TI | Dev Full-Stack | Automação & Infraestrutura**  
 🛠️ Especialista em suporte técnico, redes, servidores, automação, segurança e liderança de equipes  
 🚀 Projetos práticos em bots, sistemas de ponto, automação e IA
