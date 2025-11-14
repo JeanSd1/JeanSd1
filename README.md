@@ -101,11 +101,4 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
 - **GitHub:** JeanSd1
 
 ---
-
-## Estatísticas
-
-[![Jean Durgante - GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanSd1&show_icons=true&theme=tokyonight)](https://github.com/JeanSd1)
-
----
-
 *"Tecnologia deve ser inovadora, eficiente e confiável."*
