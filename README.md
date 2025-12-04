@@ -8,7 +8,7 @@
 
   </tr>
 </table>
-👨‍💻 **Supervisor de TI | Dev Full-Stack | Automação & Infraestrutura**  
+👨‍💻 **Supervisor de TI | “Sou um desenvolvedor em aprendizado, focado em desenvolvimento full-stack, e estou buscando oportunidades para crescer profissionalmente.”| Automação & Infraestrutura**  
 🛠️ Especialista em suporte técnico, redes, servidores, automação, segurança e liderança de equipes  
 🚀 Projetos práticos em bots, sistemas de ponto, automação e IA
 
