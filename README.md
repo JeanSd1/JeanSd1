@@ -1,4 +1,4 @@
-# JeanSD1
+# Jean Durgante
 
 ### Contato & Redes Sociais
 
