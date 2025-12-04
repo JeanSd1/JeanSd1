@@ -6,7 +6,6 @@
 
 ### 📊 Estatísticas GitHub
 
-[[[[[](url)](url)](url)](url)[[[[](url)](url)](url)](url)[[[[](url)](url)](url)](url)[[[](url)](url)](url)](url)
     </td>
   </tr>
 </table>
