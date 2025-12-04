@@ -6,7 +6,6 @@
 
 ### 📊 Estatísticas GitHub
 
-    </td>
   </tr>
 </table>
 👨‍💻 **Supervisor de TI | Dev Full-Stack | Automação & Infraestrutura**  
