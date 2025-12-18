@@ -91,6 +91,7 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
 
 - **Email:** jean.d.serres@gmail.com
 - **GitHub:** JeanSd1
+- **linkedin https://www.linkedin.com/in/jean-durgante-691509342/
 
 ---
 *"Tecnologia deve ser inovadora, eficiente e confiável."*
