@@ -84,6 +84,8 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
 - **[AutoPonto.ai](https://github.com/JeanSd1/AutoPonto.ai)**  
   *Sistema inteligente de gestão de ponto e recursos humanos.*
 
+-** [Ultron] O assistente de IA para controle do computador.
+*Controle seu computador e sua casa inteligente com comandos de voz de qualquer lugar.*
 ---
 
 ## Contato
