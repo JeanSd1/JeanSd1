@@ -93,8 +93,7 @@ Profissional com experiência consolidada em suporte técnico, redes, infraestru
   *Sistema inteligente de gestão de ponto e recursos humanos.*
   
 - **[Ultron](https://github.com/JeanSd1/UItron)**
-- 
- *Ultron é um assistente de IA para controle do computador. Controle seu computador e sua casa inteligente com comandos de voz de qualquer lugar.*
+- *Ultron é um assistente de IA para controle do computador. Controle seu computador e sua casa inteligente com comandos de voz de qualquer lugar.*
 ---
 
 ## Contato
