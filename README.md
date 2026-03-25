@@ -15,7 +15,7 @@
 | 📤 **Total PRs:** 17 | 🟠 **TypeScript:** 7.21% |
 | 📦 **Contributed to (last year):** 29 | 🔵 **C# / C++:** Novos projetos |
 
-| 👨‍💻 **Supervisor de TI** | Dev Full-Stack | Automação & Infraestrutura |
+| 👨‍💻 **Gerente de TI** | Dev Full-Stack | Automação & Infraestrutura |
 |---|
 | 🛠️ Especialista em suporte técnico, redes, servidores, automação, segurança e liderança de equipes |
 | 🚀 Projetos práticos em bots, sistemas de ponto, IA, CAD 3D e automação residencial |
